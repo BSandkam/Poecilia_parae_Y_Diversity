@@ -12,6 +12,7 @@ The overall pipeline follows the order indicated on the filename:
   7b_Male_Scaffold_annotation.md
   8_Male_Scaffold_coverage.md
   9_Autosomal_Phylogenies.md
+  10_Interspersed_Repeats.md
 
 Script and pipelines have been annotated throughout and filenames must be adjusted as indicated. See manuscript for full details.
 
